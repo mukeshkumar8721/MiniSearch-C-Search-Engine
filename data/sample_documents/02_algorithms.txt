@@ -1,0 +1,3 @@
+An algorithm is a finite sequence of steps that solves a problem.
+Searching algorithms locate data. Sorting algorithms arrange data in a chosen order.
+Linear search checks values one by one, while binary search repeatedly halves a sorted search range.

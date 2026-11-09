@@ -1,0 +1,23 @@
+# Compiled output
+/build/
+*.o
+*.obj
+*.exe
+*.app
+*.dSYM/
+
+# Generated search indexes and temporary saves
+*.idx
+*.idx.tmp
+*.tmp
+
+# Test fixtures created while running `make test`
+/tests/tmp_*/
+
+# macOS / editor metadata
+.DS_Store
+.vscode/
+.idea/
+
+# Clang static analyzer output
+*.plist

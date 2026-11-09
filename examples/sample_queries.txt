@@ -1,0 +1,7 @@
+# Try these queries in MiniSearch:
+data structures
+binary search
+C programming
+"inverted index"       (choose exact phrase mode and omit the quote characters)
+search engine
+malloc pointers

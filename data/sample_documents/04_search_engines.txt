@@ -1,0 +1,3 @@
+A search engine collects documents and builds an index for fast retrieval.
+An inverted index maps each term to the documents that contain the term.
+The TF-IDF score combines term frequency with inverse document frequency to estimate relevance.

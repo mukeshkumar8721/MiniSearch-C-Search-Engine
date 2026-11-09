@@ -1,0 +1,3 @@
+Data structures organize information so that a program can use it efficiently.
+Arrays store related values in nearby memory locations. Linked lists connect nodes with pointers.
+A stack follows last in, first out order. A queue follows first in, first out order.
